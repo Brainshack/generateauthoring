@@ -1,0 +1,21 @@
+﻿{
+  "name": "net.brainshack.ecs.generateauthoring",
+  "version": "0.0.1",
+  "displayName": "Generate Authoring",
+  "description": "Generate Authoring Components for ECS",
+  "unity": "6000.0",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.entities": "1.2.0"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": {
+    "name": "Christian Loock",
+    "email": "brainshack@gmai.com",
+    "url": "https://www.christianloock.de"
+  }
+}

@@ -1,0 +1,10 @@
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\bin\Debug\netstandard2.0\SourceGenerator.deps.json
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\bin\Debug\netstandard2.0\SourceGenerator.dll
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\bin\Debug\netstandard2.0\SourceGenerator.pdb
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.csproj.AssemblyReference.cache
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.AssemblyInfoInputs.cache
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.AssemblyInfo.cs
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.csproj.CoreCompileInputs.cache
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.dll
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.pdb
