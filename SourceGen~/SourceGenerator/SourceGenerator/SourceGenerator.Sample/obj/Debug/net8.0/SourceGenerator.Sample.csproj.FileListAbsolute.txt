@@ -1,0 +1,12 @@
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\bin\Debug\net8.0\SourceGenerator.Sample.deps.json
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\bin\Debug\net8.0\SourceGenerator.Sample.dll
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\bin\Debug\net8.0\SourceGenerator.Sample.pdb
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.AssemblyInfoInputs.cache
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.AssemblyInfo.cs
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.csproj.CoreCompileInputs.cache
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.sourcelink.json
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.dll
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\refint\SourceGenerator.Sample.dll
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\SourceGenerator.Sample.pdb
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator.Sample\obj\Debug\net8.0\ref\SourceGenerator.Sample.dll

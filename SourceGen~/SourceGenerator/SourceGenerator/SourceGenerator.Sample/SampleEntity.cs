@@ -1,4 +1,4 @@
-using Generators;
+﻿using Generators;
 
 namespace SourceGenerator.Sample;
 
@@ -9,4 +9,5 @@ public partial class SampleEntity
 {
     public int Id { get; } = 42;
     public string? Name { get; } = "Sample";
+
 }

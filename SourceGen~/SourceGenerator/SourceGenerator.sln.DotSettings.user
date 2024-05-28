@@ -1,6 +1,33 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43160bd6_002Dc290_002D49b1_002Da237_002D7c025338b43c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenerateReportMethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=168805d2_002D95dd_002D421c_002Daf49_002Da5881a1a926a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GeneratesAuthoringMonobehaviour" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAuthoringMonobehaviour&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43160bd6_002Dc290_002D49b1_002Da237_002D7c025338b43c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateReportMethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.SampleIncrementalSourceGeneratorTests.GenerateReportMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.SampleSourceGeneratorTests.GenerateClassesBasedOnDDDRegistry&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52ae02f7_002Dc150_002D4da1_002Db987_002D04c3603edf1b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateReportMethod #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.SampleIncrementalSourceGeneratorTests.GenerateReportMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAuthoringMonobehaviour&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAttribute&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=65323c86_002D6af5_002D4102_002D94c7_002D562b581a0481/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GenerateReportMethod #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.SampleIncrementalSourceGeneratorTests.GenerateReportMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAuthoringMonobehaviour&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAttribute&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa00e010_002Dd50c_002D470e_002Dbb6d_002Df1998dc757a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenerateReportMethod #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.SampleIncrementalSourceGeneratorTests.GenerateReportMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAuthoringMonobehaviour&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80336400-8507-44A2-976E-81730EE93D91::net8.0::SourceGenerator.Tests.GenerateAuthoringTest.GeneratesAttribute&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

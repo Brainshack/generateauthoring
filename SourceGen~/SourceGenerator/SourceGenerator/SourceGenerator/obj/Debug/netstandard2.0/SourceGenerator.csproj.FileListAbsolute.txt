@@ -8,3 +8,4 @@ E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\So
 E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.csproj.CoreCompileInputs.cache
 E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.dll
 E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.pdb
+E:\Unity\Projects\SyntySurvivor\Packages\net.brainshack.ecs.generateauthoring\SourceGen~\SourceGenerator\SourceGenerator\SourceGenerator\obj\Debug\netstandard2.0\SourceGenerator.sourcelink.json

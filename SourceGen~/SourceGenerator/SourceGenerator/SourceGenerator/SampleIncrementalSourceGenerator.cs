@@ -60,16 +60,18 @@ namespace {Namespace}
 
         // Go through all attributes of the class.
         foreach (AttributeListSyntax attributeListSyntax in classDeclarationSyntax.AttributeLists)
-        foreach (AttributeSyntax attributeSyntax in attributeListSyntax.Attributes)
         {
-            if (context.SemanticModel.GetSymbolInfo(attributeSyntax).Symbol is not IMethodSymbol attributeSymbol)
-                continue; // if we can't get the symbol, ignore it
+            foreach (AttributeSyntax attributeSyntax in attributeListSyntax.Attributes)
+            {
+                if (context.SemanticModel.GetSymbolInfo(attributeSyntax).Symbol is not IMethodSymbol attributeSymbol)
+                    continue; // if we can't get the symbol, ignore it
 
-            string attributeName = attributeSymbol.ContainingType.ToDisplayString();
+                string attributeName = attributeSymbol.ContainingType.ToDisplayString();
 
-            // Check the full name of the [Report] attribute.
-            if (attributeName == $"{Namespace}.{AttributeName}")
-                return (classDeclarationSyntax, true);
+                // Check the full name of the [Report] attribute.
+                if (attributeName == $"{Namespace}.{AttributeName}")
+                    return (classDeclarationSyntax, true);
+            }
         }
 
         return (classDeclarationSyntax, false);
